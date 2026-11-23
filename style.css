@@ -131,7 +131,7 @@ h3 { font-size: 1.35rem; font-stretch: 80%; }
 .cta { display: flex; flex-wrap: wrap; gap: 16px; margin: 30px 0 14px; }
 .hint { font-size: .9rem; color: var(--nebentext); margin: 0; }
 
-.phones { position: relative; display: flex; justify-content: center; padding: 10px 0 30px; }
+.phones { position: relative; display: flex; justify-content: center; align-items: flex-start; padding: 10px 0 30px; }
 .phone {
   width: min(56%, 250px);
   border: 3px solid var(--rahmen); border-radius: 34px; overflow: hidden;
